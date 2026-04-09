@@ -1,0 +1,24 @@
+{
+  "inner": [
+    { "id": "R0", "name": "GROUND",    "symbol": "●", "channel": "ground",    "description": "hardware, deploy, infra" },
+    { "id": "R1", "name": "SIGNAL",    "symbol": "〜", "channel": "signal",    "description": "monitoring, logs, alerts" },
+    { "id": "R2", "name": "GATE",      "symbol": "┃", "channel": "gate",      "description": "review, PR, merge gates" },
+    { "id": "R3", "name": "AFFECT",    "symbol": "♡", "channel": "affect",    "description": "community, psych safety" },
+    { "id": "R4", "name": "FORGE",     "symbol": "△", "channel": "forge",     "description": "active build, WIP" },
+    { "id": "R5", "name": "IDENTITY",  "symbol": "◐", "channel": "identity",  "description": "members, roles, bio" },
+    { "id": "R6", "name": "OBSERVER",  "symbol": "◯", "channel": "observer",  "description": "meta, retro, post-mortem" }
+  ],
+  "outer": [
+    { "id": "M0", "name": "AETHER",    "symbol": "⟁", "channel": "m-aether",  "description": "experimental, RFC" },
+    { "id": "M1", "name": "FLUX",      "symbol": "⬡", "channel": "m-flux",    "description": "transforms, refactor" },
+    { "id": "M2", "name": "VOID",      "symbol": "⟐", "channel": "m-void",    "description": "dead-code, deprecations" },
+    { "id": "M3", "name": "NEXUS",     "symbol": "✦", "channel": "m-nexus",   "description": "cross-project, linking" },
+    { "id": "M4", "name": "OMEGA",     "symbol": "❋", "channel": "m-omega",   "description": "final sign-off, release" }
+  ],
+  "special": [
+    { "id": "charter",  "channel": "charter",  "description": "manifesto read-only" },
+    { "id": "fame",     "channel": "fame",      "description": "Hall of Fame" },
+    { "id": "shame",    "channel": "shame",     "description": "Hall of Shame" },
+    { "id": "gerald",   "channel": "gerald",    "description": "DMs, private consultation" }
+  ]
+}

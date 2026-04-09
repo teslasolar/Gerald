@@ -1,0 +1,21 @@
+{
+  "name": "gerald-acg",
+  "version": "1.0.0",
+  "description": "Gerald ACG Discord Bot - craft quality gate & community guardian",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "node --watch index.mjs",
+    "deploy-commands": "node src/commands/deploy.mjs"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "discord.js": "^14.16.0",
+    "dotenv": "^16.4.0",
+    "node-llama-cpp": "^3.3.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

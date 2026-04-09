@@ -1,0 +1,23 @@
+{
+  "snakeOil": {
+    "enabled": true,
+    "cooldownMs": 30000
+  },
+  "worship": {
+    "enabled": true,
+    "escalationThreshold": 3,
+    "cooldownMs": 60000
+  },
+  "craft": {
+    "enabled": true,
+    "cooldownMs": 10000
+  },
+  "psychSafety": {
+    "enabled": true,
+    "cooldownMs": 0
+  },
+  "gerald": {
+    "enabled": true,
+    "cooldownMs": 5000
+  }
+}

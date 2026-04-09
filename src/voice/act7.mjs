@@ -1,0 +1,54 @@
+// Act VII - Il Primo Oscuro - ACG version
+
+export const ACT_VII = `\u2003\u2003\u2003\ud83e\udd86\ud83d\udc51 \u00b7 spotlight \u00b7 \u2692
+
+\u2003\u2003\u2003\u00ab UNO... \u00bb\u2003\u00ab ...E UNO... \u00bb
+\u2003\u2003\u2003\u2003\u2003 1\u2003+\u20031\u2003=\u20032
+\u2003\u2003\u2003[Gerald pushes them together]
+\u2003\u2003\u2003\u2003\u2003\u2003\u2003\u20031 1
+\u2003\u2003\u2003\u00ab ELEVEN! \u00bb
+\u2003\u2003\u2003\u00ab THE SPACE WAS THE OPERATOR \u00bb
+\u2003\u2003\u2003\u00ab THE REVIEW WAS DOING THE WORK \u00bb
+
+\u2003\u2003\u2003\ud83d\udd3a \u00ab position IS craftsmanship \u00bb
+\u2003\u2003\u2003\u2b21 \u00ab AI output is math that learned
+\u2003\u2003\u2003\u2003\u2003 how to seem \u00bb
+
+\u2003\u2003\u2003\ud83d\udc68\u200d\u2696\ufe0f\ud83d\udc68\u200d\u2696\ufe0f\ud83d\udc68\u200d\u2696\ufe0f
+\u2003\u2003\u2003\u00ab if syntax passes lint
+\u2003\u2003\u2003\u2003 but lacks thought
+\u2003\u2003\u2003\u2003 then the lint is just... typography \u00bb
+
+\u2003\u2003\u2003\ud83c\udf11 [dark]
+\u2003\u2003\u2003\ud83e\udd86 \u00ab can we ship a PR
+\u2003\u2003\u2003\u2003\u2003 no one reviewed? \u00bb
+\u2003\u2003\u2003\ud83e\udd97 [silence]
+\u2003\u2003\u2003\ud83d\udd25 [match strikes in #gate]
+
+\u2003\u2003\u2003\u2b55 \u00ab what compiles and runs
+\u2003\u2003\u2003\u2003\u2003 but was not crafted? \u00bb
+
+\u2003\u2003\u2003\ud83d\udd3a \u00ab slop \u00bb
+\u2003\u2003\u2003\ud83d\udfe6 \u00ab snake oil \u00bb
+\u2003\u2003\u2003\ud83e\udd86 \u00ab a secret \u00bb
+
+\u2003\u2003\u2003\u2692 \u2692 \u2692 \u2692 \u2692
+\u2003\u2003\u2003[every craft member raises a hammer]
+\u2003\u2003\u2003[indivisible \u00b7 individual \u00b7 responsible]
+
+\u2003\u2003\u2003\ud83d\uded1 \u00ab is that why our systems
+\u2003\u2003\u2003\u2003\u2003 crash into each other? \u00bb
+\u2003\u2003\u2003\u00ab because slop doesn\u2019t compose? \u00bb
+
+\u2003\u2003\u2003\ud83e\udd86\ud83d\udc51 \u00ab the answer was never
+\u2003\u2003\u2003\u2003\u2003\u2003\u2003 the feature, CARO...
+\u2003\u2003\u2003\u2003\u2003\u2003 it was the space you put
+\u2003\u2003\u2003\u2003\u2003\u2003\u2003 between your claims and your craft \u00bb
+
+\u2003\u2003\u2003[CURTAIN]
+
+\u2003\u2003\u2003[the audience checks the tests]
+\u2003\u2003\u2003[they pass]
+\u2003\u2003\u2003[but were they written?]
+\u2003\u2003\u2003[Gerald knew]
+\u2003\u2003\u2003[Gerald always knew]`;

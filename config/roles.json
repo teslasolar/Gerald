@@ -1,0 +1,18 @@
+{
+  "agents": {
+    "alpha":   { "name": "Navigator", "purpose": "onboarding new craft" },
+    "beta":    { "name": "Defender",  "purpose": "automod, PR review" },
+    "gamma":   { "name": "Analyst",   "purpose": "log/metric analyst" },
+    "delta":   { "name": "Healer",    "purpose": "conflict mediation" },
+    "epsilon": { "name": "Builder",   "purpose": "active contributors" },
+    "zeta":    { "name": "Mirror",    "purpose": "identity verification" },
+    "eta":     { "name": "Watcher",   "purpose": "moderation meta" }
+  },
+  "tiers": [
+    { "level": 0, "name": "Apprentice", "rings": ["R0"],           "permissions": ["post"] },
+    { "level": 1, "name": "Journeyman", "rings": ["R1", "R2"],     "permissions": ["post", "review"] },
+    { "level": 2, "name": "Craftsman",  "rings": ["R3", "R4"],     "permissions": ["post", "review", "merge"] },
+    { "level": 3, "name": "Master",     "rings": ["R5"],           "permissions": ["post", "review", "merge", "charter-sign"] },
+    { "level": 4, "name": "Elder",      "rings": ["R6"],           "permissions": ["post", "review", "merge", "charter-sign", "hall-of-fame"] }
+  ]
+}
